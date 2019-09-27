@@ -6,7 +6,9 @@ StyleNavigator lets you explore among built-in Unity3D GUI styles.
 
 -Download the repo and add the 'StyleNavigator' folder to 'Assets' folder of your project. After the compilation you can access the StyleNavigator window under 'Window/StyleNavigator' tab.
 
-![alt text](https://github.com/birchgames/StyleNavigator/blob/master/Images/4.png)
+<kbd>
+  <img src="https://github.com/birchgames/StyleNavigator/blob/master/Images/4.png">
+</kbd>
 
 
 <kbd>
